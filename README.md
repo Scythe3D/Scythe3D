@@ -3,4 +3,4 @@
 - Samsung Tablet
 - Chicago, IL
 - I'm intrested in the world of technology.
-![alt text](image.png)
+
